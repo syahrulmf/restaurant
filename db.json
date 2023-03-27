@@ -2,21 +2,93 @@
   "restaurant": [
     {
       "id": 1,
-      "name": "Pascal HyperSquare",
-      "address": "Bandung",
-      "image": "-",
+      "name": "Azuma Sushi",
+      "category": "japanese",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/11/c0/d3/60/your-favorite-place-for.jpg",
       "rating": 4,
       "price": 299,
       "isOpen": true
     },
     {
       "id": 2,
-      "name": "TSM Bandung",
-      "address": "Bandung",
-      "image": "-",
+      "name": "Edo Ichi Group",
+      "category": "japanese",
+      "image": "https://i.pinimg.com/600x315/3c/0c/2d/3c0c2dc8da858057aa80cd060f53cf92.jpg",
       "rating": 5,
-      "price": 299,
+      "price": 229,
       "isOpen": true
+    },
+    {
+      "id": 3,
+      "name": "Le Restaurant",
+      "category": "italian",
+      "image": "https://toohotel.com/wp-content/uploads/2022/09/TOO_restaurant_Panoramique_vue_Paris_nuit_v2-scaled.jpg",
+      "rating": 5,
+      "price": 449,
+      "isOpen": true
+    },
+    {
+      "id": 4,
+      "name": "Canoe Restaurant",
+      "category": "american",
+      "image": "https://cdn.oliverbonacininetwork.com/uploads/sites/42/2022/04/Canoe-Interior-Evening-Vibes-5170.jpg",
+      "rating": 5,
+      "price": 450,
+      "isOpen": false
+    },
+    {
+      "id": 5,
+      "name": "The Herd Steak",
+      "category": "steak house",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/18/a8/0f/f4/the-herd-steak-restaurant.jpg",
+      "rating": 3,
+      "price": 250,
+      "isOpen": true
+    },
+    {
+      "id": 6,
+      "name": "Nick's Seafood",
+      "category": "seafood",
+      "image": "https://cdn.phuket.net/bucket/directory/size/600/400/2006/03/3066-002.jpg",
+      "rating": 4,
+      "price": 270,
+      "isOpen": false
+    },
+    {
+      "id": 7,
+      "name": "Coral Seafood",
+      "category": "seafood",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0e/79/8a/1a/patong-seafood.jpg",
+      "rating": 4,
+      "price": 210,
+      "isOpen": false
+    },
+    {
+      "id": 8,
+      "name": "Pai Thong Thai",
+      "category": "thai",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/12/db/04/1b/pai-tong-thai-restaurant.jpg",
+      "rating": 5,
+      "price": 300,
+      "isOpen": true
+    },
+    {
+      "id": 9,
+      "name": "Eldvino Thai",
+      "category": "thai",
+      "image": "https://rachelgouk.com/wp-content/uploads/2021/12/eldivino-thai-restaurant-shanghai-29.jpg",
+      "rating": 5,
+      "price": 301,
+      "isOpen": true
+    },
+    {
+      "id": 10,
+      "name": "Flores Mexican",
+      "category": "mexican",
+      "image": "https://popmenucloud.com/xrpblwcd/85ba676e-8969-4793-ba64-46c7724547be.jpg",
+      "rating": 5,
+      "price": 301,
+      "isOpen": false
     }
   ]
 }
