@@ -1,0 +1,22 @@
+{
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Pascal HyperSquare",
+      "address": "Bandung",
+      "image": "-",
+      "rating": 4,
+      "price": 299,
+      "isOpen": true
+    },
+    {
+      "id": 2,
+      "name": "TSM Bandung",
+      "address": "Bandung",
+      "image": "-",
+      "rating": 5,
+      "price": 299,
+      "isOpen": true
+    }
+  ]
+}
