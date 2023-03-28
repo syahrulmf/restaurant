@@ -68,7 +68,7 @@
       "name": "Pai Thong Thai",
       "category": "thai",
       "image": "https://media-cdn.tripadvisor.com/media/photo-s/12/db/04/1b/pai-tong-thai-restaurant.jpg",
-      "rating": 5,
+      "rating": 3,
       "price": 300,
       "isOpen": true
     },
@@ -86,8 +86,26 @@
       "name": "Flores Mexican",
       "category": "mexican",
       "image": "https://popmenucloud.com/xrpblwcd/85ba676e-8969-4793-ba64-46c7724547be.jpg",
-      "rating": 5,
-      "price": 301,
+      "rating": 3,
+      "price": 200,
+      "isOpen": false
+    },
+    {
+      "id": 11,
+      "name": "Terrace Lounge",
+      "category": "american",
+      "image": "https://toohotel.com/wp-content/uploads/2022/09/TOO_Restaurant_Petitdejeuner.jpg",
+      "rating": 4,
+      "price": 325,
+      "isOpen": false
+    },
+    {
+      "id": 12,
+      "name": "Eggen Restaurant",
+      "category": "thai",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/1f/19/01/c1/take-your-friends-or.jpg",
+      "rating": 4,
+      "price": 310,
       "isOpen": false
     }
   ]
