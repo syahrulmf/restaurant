@@ -7,7 +7,8 @@
       "image": "https://media-cdn.tripadvisor.com/media/photo-s/11/c0/d3/60/your-favorite-place-for.jpg",
       "rating": 4,
       "price": 299,
-      "isOpen": true
+      "isOpen": true,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "image": "https://i.pinimg.com/600x315/3c/0c/2d/3c0c2dc8da858057aa80cd060f53cf92.jpg",
       "rating": 5,
       "price": 229,
-      "isOpen": true
+      "isOpen": true,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
     },
     {
       "id": 3,
@@ -25,7 +27,8 @@
       "image": "https://toohotel.com/wp-content/uploads/2022/09/TOO_restaurant_Panoramique_vue_Paris_nuit_v2-scaled.jpg",
       "rating": 5,
       "price": 449,
-      "isOpen": true
+      "isOpen": true,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
     },
     {
       "id": 4,
@@ -34,7 +37,8 @@
       "image": "https://cdn.oliverbonacininetwork.com/uploads/sites/42/2022/04/Canoe-Interior-Evening-Vibes-5170.jpg",
       "rating": 5,
       "price": 450,
-      "isOpen": false
+      "isOpen": false,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
     },
     {
       "id": 5,
@@ -43,7 +47,8 @@
       "image": "https://media-cdn.tripadvisor.com/media/photo-s/18/a8/0f/f4/the-herd-steak-restaurant.jpg",
       "rating": 3,
       "price": 250,
-      "isOpen": true
+      "isOpen": true,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
     },
     {
       "id": 6,
@@ -52,7 +57,8 @@
       "image": "https://cdn.phuket.net/bucket/directory/size/600/400/2006/03/3066-002.jpg",
       "rating": 4,
       "price": 270,
-      "isOpen": false
+      "isOpen": false,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
     },
     {
       "id": 7,
@@ -61,7 +67,8 @@
       "image": "https://media-cdn.tripadvisor.com/media/photo-s/0e/79/8a/1a/patong-seafood.jpg",
       "rating": 4,
       "price": 210,
-      "isOpen": false
+      "isOpen": false,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
     },
     {
       "id": 8,
@@ -70,7 +77,8 @@
       "image": "https://media-cdn.tripadvisor.com/media/photo-s/12/db/04/1b/pai-tong-thai-restaurant.jpg",
       "rating": 3,
       "price": 300,
-      "isOpen": true
+      "isOpen": true,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
     },
     {
       "id": 9,
@@ -79,7 +87,8 @@
       "image": "https://rachelgouk.com/wp-content/uploads/2021/12/eldivino-thai-restaurant-shanghai-29.jpg",
       "rating": 5,
       "price": 301,
-      "isOpen": true
+      "isOpen": true,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
     },
     {
       "id": 10,
@@ -88,7 +97,8 @@
       "image": "https://popmenucloud.com/xrpblwcd/85ba676e-8969-4793-ba64-46c7724547be.jpg",
       "rating": 3,
       "price": 200,
-      "isOpen": false
+      "isOpen": false,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
     },
     {
       "id": 11,
@@ -97,7 +107,8 @@
       "image": "https://toohotel.com/wp-content/uploads/2022/09/TOO_Restaurant_Petitdejeuner.jpg",
       "rating": 4,
       "price": 325,
-      "isOpen": false
+      "isOpen": false,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
     },
     {
       "id": 12,
@@ -106,7 +117,8 @@
       "image": "https://media-cdn.tripadvisor.com/media/photo-s/1f/19/01/c1/take-your-friends-or.jpg",
       "rating": 4,
       "price": 310,
-      "isOpen": false
+      "isOpen": false,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
     }
   ]
 }
